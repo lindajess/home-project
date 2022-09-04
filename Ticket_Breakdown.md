@@ -19,20 +19,20 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 ### Ticket #1 Work on database modifications to support custom ids from facilities
 
-Acceptance criteria
-    - Shifts table should contain custom agent id, generate by the Facility, AND the internal agent id 
-    - custom id should be unique and numeric
+#### Acceptance criteria. 
+    - Shifts table should contain custom agent id, generate by the Facility, AND the internal agent id.  
+    - custom id should be unique and numeric. 
 
-Points: 1
+**Points: 1**
 
 
 ### Ticket #2 Work on modifications for getShiftsByFacility function
 
-Acceptance criteria
+#### Acceptance criteria. 
     - Function should return shifts by facility id, as usual. 
-    - Additionaly, agent information metadata should be return for each shift including its custom id instead of the internal one
+    - Additionaly, agent information metadata should be return for each shift including its custom id instead of the internal one. 
 
-Points: 2
+**Points: 2**
 
 
 Note: 
