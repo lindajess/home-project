@@ -9,7 +9,7 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
-1. used ES6 features to make the code more readable 
-2. reduced conditional to 3 
-3. no nested conditionals
+1. Used ES6 features to make the code more readable 
+2. Reduced conditional to 3 
+3. No nested conditionals
 4. Initial value set instead of verify multiple conditions before set it up
